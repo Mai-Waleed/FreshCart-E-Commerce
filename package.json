@@ -1,6 +1,7 @@
 {
   "name": "app2",
   "version": "0.1.0",
+  "homepage": "https://Mai-Waleed.github.io/FreshCart-E-Commerce",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-free": "^7.1.0",
@@ -24,6 +25,8 @@
     "yup": "^1.7.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
