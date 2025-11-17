@@ -22,6 +22,7 @@ import About from'./Components/About/About';
 import NotFound from'./Components/NotFound/NotFound';
 import ProtectedRoute from './Components/ProtectedRoute/ProtectedRoute';
 import CategoryProducts from './Components/CategoryProducts/CategoryProducts';
+import BrandProducts from './Components/BrandProducts/BrandProducts';
 
 function App() {
   const [userData, setuserData] = useState(null);
@@ -52,6 +53,7 @@ function App() {
       {path:'categories', element:<ProtectedRoute><Categories/></ProtectedRoute>},
       {path:'categories/:id', element:<ProtectedRoute><CategoryProducts/></ProtectedRoute>},
       {path:'brands', element:<ProtectedRoute><Brands/></ProtectedRoute>},
+      {path:'brands/:id', element:<ProtectedRoute><BrandProducts/></ProtectedRoute>},
       {path:'*', element:<NotFound/>},
     ]}
   ])
