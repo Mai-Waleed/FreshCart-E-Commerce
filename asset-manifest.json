@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/FreshCart-E-Commerce/static/css/main.1ac2a1b0.css",
+    "main.js": "/FreshCart-E-Commerce/static/js/main.cef1babc.js",
+    "static/media/blog-img-2.jpeg": "/FreshCart-E-Commerce/static/media/blog-img-2.69e5e73301d9616ba8c6.jpeg",
+    "static/media/blog-img-1.jpeg": "/FreshCart-E-Commerce/static/media/blog-img-1.3e2f37267e1d1d5c8c75.jpeg",
+    "static/media/slider-image-1.jpeg": "/FreshCart-E-Commerce/static/media/slider-image-1.3c3940ee0f1c3b17ff9a.jpeg",
+    "static/media/slider-image-3.jpeg": "/FreshCart-E-Commerce/static/media/slider-image-3.7e5c9f7a513f6db6dd5e.jpeg",
+    "static/media/slider-image-2.jpeg": "/FreshCart-E-Commerce/static/media/slider-image-2.e510b0de8a4d96a1d5ad.jpeg",
+    "static/media/fa-solid-900.woff2": "/FreshCart-E-Commerce/static/media/fa-solid-900.8ae0d37556ff1e685de2.woff2",
+    "static/media/error.svg": "/FreshCart-E-Commerce/static/media/error.084f5f5b0eb10d3216cb7c939108e1f6.svg",
+    "static/media/fa-brands-400.woff2": "/FreshCart-E-Commerce/static/media/fa-brands-400.1c5c7716b05754cb4eab.woff2",
+    "static/media/fa-regular-400.woff2": "/FreshCart-E-Commerce/static/media/fa-regular-400.6f05ca9ab7b5345dbc07.woff2",
+    "static/media/freshcart-logo.svg": "/FreshCart-E-Commerce/static/media/freshcart-logo.53f7a424c3aedc30a0fb46dc2278137c.svg",
+    "static/media/fa-v4compatibility.woff2": "/FreshCart-E-Commerce/static/media/fa-v4compatibility.e4340c52a50e727c6afa.woff2",
+    "static/media/slick.svg": "/FreshCart-E-Commerce/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/FreshCart-E-Commerce/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/FreshCart-E-Commerce/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/FreshCart-E-Commerce/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/FreshCart-E-Commerce/index.html",
+    "main.1ac2a1b0.css.map": "/FreshCart-E-Commerce/static/css/main.1ac2a1b0.css.map",
+    "main.cef1babc.js.map": "/FreshCart-E-Commerce/static/js/main.cef1babc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ac2a1b0.css",
+    "static/js/main.cef1babc.js"
+  ]
+}
